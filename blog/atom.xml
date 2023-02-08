@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuzichen1120.github.io/blog</id>
     <title>刘子晨 Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2022-11-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuzichen1120.github.io/blog"/>
     <subtitle>刘子晨 Blog</subtitle>
     <icon>https://liuzichen1120.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[高兴诗]]></title>
+        <id>https://liuzichen1120.github.io/blog/happy</id>
+        <link href="https://liuzichen1120.github.io/blog/happy"/>
+        <updated>2022-11-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
+        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <author>
+            <name>刘哥</name>
+            <uri>https://github.com/</uri>
+        </author>
+        <category label="随笔" term="随笔"/>
+        <category label="诗，李美丽" term="诗，李美丽"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://liuzichen1120.github.io/blog/welcome</id>

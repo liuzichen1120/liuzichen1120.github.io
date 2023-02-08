@@ -4,10 +4,20 @@
         <title>刘子晨 Blog</title>
         <link>https://liuzichen1120.github.io/blog</link>
         <description>刘子晨 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[高兴诗]]></title>
+            <link>https://liuzichen1120.github.io/blog/happy</link>
+            <guid>https://liuzichen1120.github.io/blog/happy</guid>
+            <pubDate>Fri, 25 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
+            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
+            <category>随笔</category>
+            <category>诗，李美丽</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://liuzichen1120.github.io/blog/welcome</link>
